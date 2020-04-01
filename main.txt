@@ -1,1 +1,16 @@
-https://www.rediff.com/
+############################################################
+#        CUSTOM ADS BLACKLIST FOR PFSENSENG                #
+#**********************************************************#
+#                                                          #
+# Disclaimer: this file is free to use for personal use    #
+# only. Furthermore it is NOT permitted to copy any of the #
+# contents or host on any other site without permission or #
+# meeting the full criteria of the below license terms.    #
+#                                                          #
+# This work is licensed under the Creative Commons         #
+# Attribution-NonCommercial-ShareAlike License.            #
+# https://creativecommons.org/licenses/by-nc-sa/4.0/       #
+#                                                          #
+############################################################
+
+rediff.com/
