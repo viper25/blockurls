@@ -1,5 +1,5 @@
 ############################################################
-#        CUSTOM ADS BLACKLIST FOR PFSENSENG                #
+#        CUSTOM ADS BLACKLIST FOR PFSENSENG & PIHOLE       #
 #**********************************************************#
 #                                                          #
 # Disclaimer: this file is free to use for personal use    #
@@ -13,4 +13,4 @@
 #                                                          #
 ############################################################
 
-https://www.rediff.com/
+(\.|^)rediff\.com$
