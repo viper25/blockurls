@@ -1,5 +1,5 @@
 ############################################################
-#        CUSTOM ADS BLACKLIST FOR PFSENSENG & PIHOLE       #
+#        CUSTOM ADS BLACKLIST FOR PFSENSE & PIHOLE         #
 #**********************************************************#
 #                                                          #
 # Disclaimer: this file is free to use for personal use    #
