@@ -13,5 +13,11 @@
 #                                                          #
 ############################################################
 
-#[Testing]
+#[Maid]
 0.0.0.0 sify.com
+0.0.0.0 gujaratspeed.in
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 portal.fb.com
+0.0.0.0 g.whatsapp.net
+0.0.0.0 static.whatsapp.net
