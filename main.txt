@@ -18,6 +18,6 @@
 0.0.0.0 gujaratspeed.in
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 ytimg.com
-0.0.0.0 portal.fb.com
 0.0.0.0 whatsapp.net
 0.0.0.0 static.whatsapp.net
+0.0.0.0 cnn.com
