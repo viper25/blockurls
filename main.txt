@@ -21,3 +21,4 @@
 0.0.0.0 whatsapp.net
 0.0.0.0 static.whatsapp.net
 0.0.0.0 cnn.com
+0.0.0.0 shockgore.com
